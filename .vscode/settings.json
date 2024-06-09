@@ -19,11 +19,14 @@
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": "explicit"
+<<<<<<< Updated upstream
     }
   },
   "[javascript][typescript][typescriptreact]": {
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": "explicit"
+=======
+>>>>>>> Stashed changes
     }
   }
 }
